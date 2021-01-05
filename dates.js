@@ -7,5 +7,6 @@ let datesoftwothousands = [
 
 let datesoftwothausandtens = [
    "2010",
-   "2011"
+   "2011",
+   "2012"
 ]
