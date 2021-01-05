@@ -8,11 +8,3 @@ let datesoftwothousands = [
 let datesoftwothausandtens = [
    "2010"
 ]
-
-
-
-
-
-
-
-
